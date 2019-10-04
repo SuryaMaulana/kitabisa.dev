@@ -1,5 +1,5 @@
 # KitaBisa DUPLICATE
-DUPLICATE website [KitaBisa.com](https://kitabisa.com/), tetapi dengan banyaknya kekurangan fitur dan bug.
+DUPLICATE website [Kitabisa.com](https://kitabisa.com/), tetapi dengan banyaknya kekurangan fitur dan bug.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
